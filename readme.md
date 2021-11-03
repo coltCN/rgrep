@@ -22,7 +22,7 @@ $ rgrep Hel[^\\s]+ a.txt
 ```
 
 ### step 3
-
+允许用户提供一个正则表达式，来查找满足文件通配符的所有文件
 ```
 $ rgrep Hel[^\\s]+ a*.txt
 a.txt
